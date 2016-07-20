@@ -1,0 +1,1 @@
+{"version":3,"sources":["push.js"],"names":[],"mappings":"AAAA,OAAQ,CACP,OADO,CAAR,EAEG,UAAU,GAAV,EAAgB;AAClB,QAAO,IAAI,IAAX;AACA,CAJD","file":"push-compiled.js","sourcesContent":["define( [\r\n\t\"./arr\"\r\n], function( arr ) {\r\n\treturn arr.push;\r\n} );\r\n"]}

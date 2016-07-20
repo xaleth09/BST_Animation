@@ -1,0 +1,1 @@
+{"version":3,"sources":["dataPriv.js"],"names":[],"mappings":"AAAA,OAAQ,CACP,SADO,CAAR,EAEG,UAAU,IAAV,EAAiB;AACnB,QAAO,IAAI,IAAJ,EAAP;AACA,CAJD","file":"dataPriv-compiled.js","sourcesContent":["define( [\r\n\t\"../Data\"\r\n], function( Data ) {\r\n\treturn new Data();\r\n} );\r\n"]}

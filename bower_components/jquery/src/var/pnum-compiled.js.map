@@ -1,0 +1,1 @@
+{"version":3,"sources":["pnum.js"],"names":[],"mappings":"AAAA,OAAQ,YAAW;AAClB,QAAS,sCAAF,CAA0C;AAAjD;AACA,CAFD","file":"pnum-compiled.js","sourcesContent":["define( function() {\r\n\treturn ( /[+-]?(?:\\d*\\.|)\\d+(?:[eE][+-]?\\d+|)/ ).source;\r\n} );\r\n"]}

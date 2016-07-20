@@ -1,0 +1,1 @@
+{"version":3,"sources":["rscriptType.js"],"names":[],"mappings":"AAAA,OAAQ,YAAW;AAClB,QAAS;AAAT;AACA,CAFD","file":"rscriptType-compiled.js","sourcesContent":["define( function() {\r\n\treturn ( /^$|\\/(?:java|ecma)script/i );\r\n} );\r\n"]}

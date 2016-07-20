@@ -1,0 +1,1 @@
+{"version":3,"sources":["slice.js"],"names":[],"mappings":"AAAA,OAAQ,CACP,OADO,CAAR,EAEG,UAAU,GAAV,EAAgB;AAClB,QAAO,IAAI,KAAX;AACA,CAJD","file":"slice-compiled.js","sourcesContent":["define( [\r\n\t\"./arr\"\r\n], function( arr ) {\r\n\treturn arr.slice;\r\n} );\r\n"]}

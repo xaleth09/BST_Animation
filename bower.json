@@ -1,0 +1,28 @@
+{
+  "name": "searchesNsorts",
+  "description": "animated search and sort algorithms",
+  "main": "index.html",
+  "keywords": [
+    "animated",
+    "search",
+    "sort",
+    "algorithms"
+  ],
+  "authors": [
+    "Roberto Garza (xaleth)"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "bootstrap-sass": "^3.3.6"
+  }
+}

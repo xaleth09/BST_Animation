@@ -1,0 +1,1 @@
+{"version":3,"sources":["support.js"],"names":[],"mappings":"AAAA,OAAQ,CACP,gBADO,CAAR,EAEG,UAAU,OAAV,EAAoB;;AAEvB,SAAQ,OAAR,GAAkB,eAAe,MAAjC;;AAEA,QAAO,OAAP;AAEC,CARD","file":"support-compiled.js","sourcesContent":["define( [\r\n\t\"../var/support\"\r\n], function( support ) {\r\n\r\nsupport.focusin = \"onfocusin\" in window;\r\n\r\nreturn support;\r\n\r\n} );\r\n"]}

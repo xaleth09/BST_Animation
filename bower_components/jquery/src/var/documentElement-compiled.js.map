@@ -1,0 +1,1 @@
+{"version":3,"sources":["documentElement.js"],"names":[],"mappings":"AAAA,OAAQ,CACP,YADO,CAAR,EAEG,UAAU,QAAV,EAAqB;AACvB,QAAO,SAAS,eAAhB;AACA,CAJD","file":"documentElement-compiled.js","sourcesContent":["define( [\r\n\t\"./document\"\r\n], function( document ) {\r\n\treturn document.documentElement;\r\n} );\r\n"]}

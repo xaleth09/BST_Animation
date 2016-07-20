@@ -1,0 +1,1 @@
+{"version":3,"sources":["rneedsContext.js"],"names":[],"mappings":"AAAA,OAAQ,CACP,YADO,EAEP,gBAFO,CAAR,EAGG,UAAU,MAAV,EAAmB;AACrB,QAAO,OAAO,IAAP,CAAY,KAAZ,CAAkB,YAAzB;AACA,CALD","file":"rneedsContext-compiled.js","sourcesContent":["define( [\r\n\t\"../../core\",\r\n\t\"../../selector\"\r\n], function( jQuery ) {\r\n\treturn jQuery.expr.match.needsContext;\r\n} );\r\n"]}

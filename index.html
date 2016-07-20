@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Gamedev Canvas Workshop</title>
+    <style>
+        canvas { background: #eee; display: block;}
+    </style>
+
+    <!-- build:css(.tmp) styles/main.css -->
+     <link rel="stylesheet" href="styles/main.css">
+    <!-- endbuild -->
+</head>
+
+<body onload="setUp()">
+
+    <div class="container-fluid">
+        <div class="row">
+            <h1>Binary Search Tree Animation!</h1>
+            <div class="row infoBar">
+                <div class="col-xs-12 col-md-2">
+                    <button class="btn btn-success" onclick="setUp()">Random BST</button>
+                </div>
+                <div class="col-xs-12 col-md-8">
+                    <div id="circle" class="col-xs-12 col-md-1">
+                        <div id="text">31</div>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <div>: Hover over a node to see its data</div>
+                        <div>: left click to delete it</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row row-content">
+            <canvas id="myCanvas" width="780" height="520"></canvas>
+        </div>
+    </div>
+
+    <!-- build.js(P.tmp,app}) scripts/scripts.js -->
+    <script src="scripts/DrawableObj.js"></script>
+    <script src="scripts/BST.js"></script>
+    <script src="scripts/bubble.js"></script>
+    <script src="scripts/animation.js"></script>
+    <!-- endbuild -->
+
+</body>
+</html>

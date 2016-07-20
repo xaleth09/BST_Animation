@@ -1,0 +1,1 @@
+{"version":3,"sources":["rcheckableType.js"],"names":[],"mappings":"AAAA,OAAQ,YAAW;AAClB,QAAS;AAAT;AACA,CAFD","file":"rcheckableType-compiled.js","sourcesContent":["define( function() {\r\n\treturn ( /^(?:checkbox|radio)$/i );\r\n} );\r\n"]}
